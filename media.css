@@ -1,0 +1,63 @@
+@media screen and (max-width: 767px){
+    .carousel-caption{
+        width: 100% !important;
+        position: static !important;
+        background: #111 !important;
+    }
+    .carousel-caption h1{
+        font-size: 30px !important;
+    }
+    .list-box ul li{
+        margin-bottom: 18px !important;
+    }
+    .coverage-image{
+        margin-top: 8px !important;
+        margin-bottom: 8px !important;
+        text-align: center !important;
+    }
+    #coverage ul li b{
+        font-size: 20px !important;
+    }
+    .coverage-image-text{
+        text-align: center !important;
+    }
+    .latest-news-image-text h3 a{
+        font-size: 20px !important;
+    }
+    .latest-vedios-image-box1 a img{
+        width: 100% !important;
+    }
+    #match-highlight h1{
+        font-size: 25px !important;
+        text-align: center !important;
+    }
+    .main-feature-series-box img{
+        width: 100% !important;
+    }
+    .main-box-magic-movement img{
+        width: 100% !important;
+    }
+    #players-rating h1{
+        font-size: 25px !important
+    }
+    #Magic-Movement h1{
+        font-size: 25px !important;
+        text-align: center !important;
+    }
+    #match-result h1{
+        font-size: 25px !important;
+    }
+    #exclusive-collection h1{
+        font-size: 25px !important;
+    }
+    .main-exclusive-box-image img{
+        width: 100% !important;
+    }
+    #footer{
+        text-align: center !important;
+    }
+    #fourk-section{
+        text-align: center !important;
+    }
+}
+
